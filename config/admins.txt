@@ -7,19 +7,13 @@
 
 # not_a_user - Admin
 
-maverikknight - Head Admin
-ncrranger21 - Moderator
-sovietcyanide - Moderator
-rand0mname - Moderator
-monos - Head Admin
-fighterslam - Trial Moderator
-
-valzargaming - Host
-herma - Code Wizard
-theflagbearer - Code Wizard
-artofwasd - Code Wizard
-slayingcreepers - Code Wizard
-n8toe - Developer
-APsychonaut - Code Wizard
-semorerith - Host
-Quenya - Host
+dingosin = Host
+sonic_cadeirante = Game Master
+brunoasbahr = Game Master
+fidgetybacchus = Game Master
+gabrieldodrip = Moderator
+teemotius = Moderator
+Silviosall = Moderator
+argentinogostoso = Host
+Cobrakanbr = Host
+LittlePlayer0102 = Head Admin
